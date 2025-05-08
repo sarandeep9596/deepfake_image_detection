@@ -1,0 +1,22 @@
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- Framer Motion
+- CSS3
+- FastAPI (backend, not included here)
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/your-username/fake-image-detection-ui.git
+   cd fake-image-detection-ui
+   for model--->uvicorn app:app
+
+   for frontend--->npm start
+   ```

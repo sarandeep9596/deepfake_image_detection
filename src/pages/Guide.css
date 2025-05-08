@@ -1,0 +1,68 @@
+.spot-container {
+    padding: 40px 20px;
+    background: linear-gradient(to right, #fff, #f9f9ff);
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: #222;
+    line-height: 1.6;
+  }
+  
+  .spot-title {
+    font-size: 38px;
+    text-align: center;
+    color: #6b21a8;
+    margin-bottom: 12px;
+  }
+  
+  .spot-subtitle {
+    font-size: 18px;
+    text-align: center;
+    color: #444;
+    margin-bottom: 30px;
+  }
+  
+  .spot-section {
+    margin: 30px 0;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 16px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+  
+  .spot-section h2 {
+    color: #4c1d95;
+    margin-bottom: 10px;
+  }
+  
+  .spot-section p {
+    font-size: 16px;
+    color: #333;
+  }
+  
+  .spot-section a {
+    color: #6b21a8;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  
+  .spot-section a:hover {
+    text-decoration: underline;
+  }
+  
+  .spot-image {
+    max-width: 90%;
+    max-height: 400px;
+    margin: 20px auto 0;
+    display: block;
+    object-fit: cover;
+    border-radius: 12px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  }
+  
+  
+  .spot-footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 16px;
+    color: #5c5c5c;
+  }
+  
