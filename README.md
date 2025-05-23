@@ -1,4 +1,4 @@
-# 🧠 FakeDetect - Fake Image Detection UI
+# 🧠 FakeDetect - Fake Image Detection
 
 FakeDetect is a modern React-based web application designed to help users detect AI-generated or manipulated images using machine learning techniques like Grad-CAM and visual inspection tools.
 
